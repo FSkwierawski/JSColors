@@ -1,0 +1,38 @@
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+  
+  footer {
+    background-color: rgb(244, 164, 96);
+    padding: 25px;
+  }
+
+  .jumbotron {
+      background-color: rgb(75, 0, 130);
+      color: white;
+  }
+
+  .buttonClass1 {
+      border-radius: 12px;
+      width: 200px;
+      height: 200px;
+      background-color: yellow;
+      border: none;
+  }
+
+  .buttonClass2 {
+      border-radius: 12px;
+      width: 200px;
+      height: 200px;
+      background-color: yellow;
+      border: none;
+  }
+
+  .buttonClass3 {
+      border-radius: 12px;
+      width: 200px;
+      height: 200px;
+      background-color: yellow;
+      border: none;
+  }
